@@ -1,0 +1,10 @@
+footer {
+  align-items: center;
+  background-color: #82e73c;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 3em;
+  margin-right: 3em;
+}

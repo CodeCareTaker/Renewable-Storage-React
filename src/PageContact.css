@@ -1,0 +1,36 @@
+section h3.title {
+	text-transform: capitalize;
+	font: bold 32px "Raleway", sans-serif;
+	margin-bottom: 30px;
+	text-align: center;
+	color: #5b9e01;
+}
+
+section h4.title {
+	font: bold 24px "Raleway", sans-serif;
+	margin-bottom: 30px;
+	text-align: center;
+	color: #5b9e01;
+}
+
+section p {
+	max-width: 775px;
+	line-height: 2;
+	padding: 0 20px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.bgimagecontact {
+  width:100%;
+  height:500px;
+  background: url('./renewcontact.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.bgimagecontact h5 {
+  color:white;
+  text-shadow:2px 2px #333;
+}
