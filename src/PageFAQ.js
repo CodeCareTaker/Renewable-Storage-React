@@ -44,7 +44,7 @@ class PageFAQ extends Component {
 	   Similar to other property rentals, you are responsible for purchasing content insurance.</p>
 	   <h4 className="title">What is your cancellation policy?</h4>
 	   <p>A deposit of $50 is required for online reservations. This deposit protects Renewable from lost rentals during the reserve time and may not be refunded if we hold the unit and the reservation is cancelled. Otherwise, the deposit is applied to your first month’s rent.</p>
-	   <h4 className="title">Does Sentinel Self-Storage require security deposits? Are they refundable?</h4>
+	   <h4 className="title">Does Renewable Storage require security deposits? Are they refundable?</h4>
 	   <p>For regular indoor public storage units, no security deposits are required. However, a small security deposit is taken for winter car storage, mailbox rentals and business centre offices. 
 	   For auto storage and the business centre, the deposit is returned upon vacating if there is no damage. A mailbox deposit is returned when the keys are returned.</p>
 	 </section>
