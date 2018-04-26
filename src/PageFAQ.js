@@ -25,7 +25,7 @@ class PageFAQ extends Component {
 		 <li>Good lighting</li>
 		 <li>Security cameras and more</li>
 	   </ul>
-	   <h4 className="title">Some storage companies have a 4-week rental period, which means I would pay for 13 months of rent in a year! Does Sentinel do the same?</h4>
+	   <h4 className="title">Some storage companies have a 4-week rental period, which means I would pay for 13 months of rent in a year! Does Renewable do the same?</h4>
 	   <p>No we don’t. If you move in on the 14th of the month, your rent is due on the 14th of each month. With Renewable , there are only 12 months on our calendar!</p>
 	   <h4 className="title">Can I pay for a partial month’s rent or do you just charge a flat monthly fee?</h4>
 	   <p>Our rentals have a one-month term minimum. After this minimum is met… If you need a storage unit for a few days into the next rental period, Renewable is one of the few companies that allows you to pay a daily rate.
